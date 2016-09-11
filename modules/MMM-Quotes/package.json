@@ -1,0 +1,25 @@
+{
+  "name": "Magic-Mirror-Module-Quotes",
+  "version": "1.0.0",
+  "description": "Motivational Quotes module for the Magic Mirror.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wokandroll/MMM-Quotes"
+  },
+  "keywords": [
+    "magic mirror",
+    "smart mirror",
+    "quotes",
+    "module"
+  ],
+  "author": "wokandroll",
+  "contributors": "https://github.com/wokandroll/MMM-Quotes/graphs/contributors",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wokandroll/MMM-Quotes/issues"
+  },
+  "homepage": "https://github.com/wokandroll/MMM-Quotes#readme",
+  "dependencies": {
+    "request": "latest"
+    }
+}
